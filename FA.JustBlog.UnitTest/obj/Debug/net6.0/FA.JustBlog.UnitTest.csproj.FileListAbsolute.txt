@@ -1,0 +1,692 @@
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\testhost.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\testhost.exe
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.engine.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.deps.json
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.runtimeconfig.json
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Castle.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Moq.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.framework.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Core.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.csproj.AssemblyReference.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.AssemblyInfoInputs.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.AssemblyInfo.cs
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.csproj.CoreCompileInputs.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.csproj.CopyComplete
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\refint\FA.JustBlog.UnitTest.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.genruntimeconfig.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\ref\FA.JustBlog.UnitTest.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Common.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Common.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\testhost.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\testhost.exe
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.engine.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.deps.json
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.runtimeconfig.json
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Castle.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Moq.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.framework.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Common.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Core.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Common.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.csproj.AssemblyReference.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.AssemblyInfoInputs.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.AssemblyInfo.cs
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.csproj.CoreCompileInputs.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.csproj.CopyComplete
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\refint\FA.JustBlog.UnitTest.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.genruntimeconfig.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\ref\FA.JustBlog.UnitTest.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\testhost.exe
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\testhost.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.engine.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.engine.api.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.engine.core.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.deps.json
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.runtimeconfig.json
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.pdb
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Castle.Core.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Moq.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.framework.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Common.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Core.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Core.pdb
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Common.pdb
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.csproj.AssemblyReference.cache
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.AssemblyInfoInputs.cache
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.AssemblyInfo.cs
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.csproj.CoreCompileInputs.cache
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.csproj.CopyComplete
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\refint\FA.JustBlog.UnitTest.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.pdb
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.genruntimeconfig.cache
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\ref\FA.JustBlog.UnitTest.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\testhost.exe
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\testhost.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.engine.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.engine.api.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.engine.core.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.deps.json
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.runtimeconfig.json
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.UnitTest.pdb
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Castle.Core.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Moq.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\nunit.framework.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Common.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Core.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Core.pdb
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\bin\Debug\net6.0\FA.JustBlog.Common.pdb
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.csproj.AssemblyReference.cache
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.AssemblyInfoInputs.cache
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.AssemblyInfo.cs
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.csproj.CoreCompileInputs.cache
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.csproj.CopyComplete
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\refint\FA.JustBlog.UnitTest.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.pdb
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\FA.JustBlog.UnitTest.genruntimeconfig.cache
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.UnitTest\obj\Debug\net6.0\ref\FA.JustBlog.UnitTest.dll

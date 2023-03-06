@@ -1,0 +1,68 @@
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.deps.json
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.runtimeconfig.json
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Common.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Common.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.AssemblyReference.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.AssemblyInfoInputs.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.AssemblyInfo.cs
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.CoreCompileInputs.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.CopyComplete
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\refint\FA.JustBlog.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.genruntimeconfig.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\ref\FA.JustBlog.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.deps.json
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.runtimeconfig.json
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Common.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Common.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.AssemblyReference.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.AssemblyInfoInputs.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.AssemblyInfo.cs
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.CoreCompileInputs.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.CopyComplete
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\refint\FA.JustBlog.Core.dll
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.pdb
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.genruntimeconfig.cache
+D:\Hoc olline\Thực Tập\FR_Fsoft\EF\Buoi1\New folder\hn23_cpl.b_net_01\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\ref\FA.JustBlog.Core.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.deps.json
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.runtimeconfig.json
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.pdb
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Common.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Common.pdb
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.AssemblyReference.cache
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.AssemblyInfoInputs.cache
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.AssemblyInfo.cs
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.CoreCompileInputs.cache
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.CopyComplete
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\refint\FA.JustBlog.Core.dll
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.pdb
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.genruntimeconfig.cache
+D:\FPT\Week7\hn23_cpl.b_net_01-JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\ref\FA.JustBlog.Core.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.deps.json
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.runtimeconfig.json
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Core.pdb
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Common.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\bin\Debug\net6.0\FA.JustBlog.Common.pdb
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.AssemblyReference.cache
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.AssemblyInfoInputs.cache
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.AssemblyInfo.cs
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.CoreCompileInputs.cache
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.csproj.CopyComplete
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\refint\FA.JustBlog.Core.dll
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.pdb
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\FA.JustBlog.Core.genruntimeconfig.cache
+E:\Thực Tập FPT\Blog\MockProject-Nhóm 1\FA.JustBlog\FA.JustBlog.Core\obj\Debug\net6.0\ref\FA.JustBlog.Core.dll
